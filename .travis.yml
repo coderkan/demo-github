@@ -17,4 +17,3 @@ script:
   - ng build --prod --aot
   - ng test
 
-[skip travis] Update README
