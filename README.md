@@ -1,6 +1,8 @@
 # DemoGithub
 
 
+Dev branch implementation.
+
 [![Build Status](https://travis-ci.org/coderkan/demo-github.svg?branch=master)](https://travis-ci.org/coderkan/demo-github)
 
 Testing Travis Ci integration.
